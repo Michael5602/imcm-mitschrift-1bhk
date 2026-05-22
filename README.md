@@ -1,2 +1,2 @@
-# imcm-mitschrift-1bhk
+# IMCM-Mitschrift der 1bhk
 
