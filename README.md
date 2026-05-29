@@ -46,3 +46,10 @@ Bei einer bandbreite von 300 Mbts/s können 300 Millionen Bit über die Leitung 
 **3. Funk / Radiowellen**
 - hoher Komfort, Internet übrall
 
+### Teil-3 The Internet: IP
+
+- Protkolle sind die Regeln der Komukation
+- eines der wichtisten Protokolle ist die IP
+- jedes Gerät im Internet hat zumindest eine IP
+- das Domain Name System (Dns)
+- Dns-Server führen Tabellen mit Domainamen und den etsprechenden Ip-Addressen
