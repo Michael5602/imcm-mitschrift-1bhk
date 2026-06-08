@@ -53,3 +53,16 @@ Bei einer bandbreite von 300 Mbts/s können 300 Millionen Bit über die Leitung 
 - jedes Gerät im Internet hat zumindest eine IP
 - das Domain Name System (Dns)
 - Dns-Server führen Tabellen mit Domainamen und den etsprechenden Ip-Addressen
+
+### Teil-8 The Internet: How Search Works
+
+- Such maschienen Bots durchstreifen ständig das www und katalogisiren Webseiten. Der entstehende Katalog wird auch Index gennant.
+- Wenn wir einen suchbegriff suchen dan wird der (*Index*) durchsucht.
+- Suchergebnisse werden auf Basis eines (Geheimen) Algoryhtmus geranked Ergbnisse die weiter oben stehen werden öfter, angeklickt.
+- Einfluss auf das Ranking haben unteranderm:
+    - im text vorkommende suchbegriffe (*Keywords*)
+    - Wie viele links auf die Webseite gehen. (*Backlinks*)
+- die suchergebnisse werden an die sucher angepasst! nicht jeder bekommt das gleiche zu sehen selbst wenn man das selbe sucht.
+-[Startpage]()ist eine daten sparsame suchmaschiene, die Ihre Benutzer die verwendung von Google ohne Tracking oder Personalisirung erlaubt.
+
+        
