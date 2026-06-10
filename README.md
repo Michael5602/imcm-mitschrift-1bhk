@@ -80,6 +80,12 @@ Bei einer bandbreite von 300 Mbts/s können 300 Millionen Bit über die Leitung 
 - **4xx** - Clientfehler (z.b. 404 - Page not found)
 - **5xx** - Serverfehler 🥸🦓🐽🐚🪱👀🗣️
 
+- HTTp Anfragen werden immer mit einer Methode übertragen
+- Daten werden mit Get Fragen angefordert
+- User Eingaben (z.b. Datei uploads..) werden mit post anfragen verschlüsselt.
+- es gibt auch andere HTTP METHODEN die lernen wir aber später.
+- HTTP können auch cookies enthalten (text datein die aus Schlüssel werte Paaren bestehen) sie werden bei jeder anfrage mitgesendet und ermöglichen so die identifikation.
+
 ### Teil-8 The Internet: How Search Works
 
 - Such maschienen Bots durchstreifen ständig das www und katalogisiren Webseiten. Der entstehende Katalog wird auch Index gennant.
