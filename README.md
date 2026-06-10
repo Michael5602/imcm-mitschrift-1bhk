@@ -66,6 +66,20 @@ Bei einer bandbreite von 300 Mbts/s können 300 Millionen Bit über die Leitung 
 - TCP und ICP bilden das Rückrad des Internets TCP/ICP Stack.
 - [TCP Modell](/assets/https___miro.medium.com_v2_resize_fit_720_format_webp_1_g1GzSjM5-J3aN2wjVz6qKA.png)
 
+### Teil 5 HTTP HTML
+
+- HTTP steht für hyper text tranfer Protocol
+  nach dem Client sever Prinzip: - ein web client sendet eine request an einen web sever - der Web sever verarbeitet die anfragen und sendet eine Atwort zurück. Die Antwort enthält u.a einen sogenannten [Statuscode](https://de.wikipedia.org/wiki/HTTP-Statuscode)
+  der Auskunft über die Verarbeitung der Anfrage gibt.
+
+#### HTTP-Statuscode
+
+- **1xx** - die Anfrage dauert noch
+- **2xx** - die Anfrage war erfolgreich
+- **3xx** - Um oder Weiterleitung
+- **4xx** - Clientfehler (z.b. 404 - Page not found)
+- **5xx** - Serverfehler 🥸🦓🐽🐚🪱👀🗣️
+
 ### Teil-8 The Internet: How Search Works
 
 - Such maschienen Bots durchstreifen ständig das www und katalogisiren Webseiten. Der entstehende Katalog wird auch Index gennant.
