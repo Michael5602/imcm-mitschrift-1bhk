@@ -96,3 +96,14 @@ Bei einer bandbreite von 300 Mbts/s können 300 Millionen Bit über die Leitung 
   - Wie viele links auf die Webseite gehen. (_Backlinks_)
 - die suchergebnisse werden an die sucher angepasst! nicht jeder bekommt das gleiche zu sehen selbst wenn man das selbe sucht.
 - [Startpage]()ist eine daten sparsame suchmaschiene, die Ihre Benutzer die verwendung von Google ohne Tracking oder Personalisirung erlaubt.
+
+### TCP/IP-Modell
+- Im TCP Modell übernimmt jede Schicht eine eigen aufgabe(*dived comport*) hat eigenen Namen für die versendeten.Addresiermechanismus.
+
+| Schicht | Protocoll | Dateneinheit | Addressen |
+|---------|-----------|--------------|-----------|
+| Internet | IP | Paket | 
+| Transport | TCP | Segmant | Ports |
+| Link | Ethernet | Frame | MAC-Adressen |
+
+Die Daten der Anwendungschicht werden auf der Transport-schicht in Segemnete verpackt und diese werden versendet.
