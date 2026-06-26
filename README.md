@@ -120,3 +120,6 @@ Die `index.html` ist in der Regel der Zentrale einstiegspunkt für alle Wbeseite
 werden über diese verknüpft.
 
 Die zentralen Bausteine sind die Sogennaten **TAGS**. Tags können mit **Attributen** erweitert werden. Attribute bestehen aus der Schlüsselwertpaaren (*key-value-pairs*). Der HTML_Quellcode wird vom Browser und Suchmaschienen Bots (Suchmaschienen-Bots - *crawler* Ki Bots) gelsen und interpretiert.
+
+Ein HTML_Dokument ist hierrachischen aufgebaut. Wir sprechen auch dabei von dem **DOM-Tree**
+jedes HTML Dokument ist aufgebaut wie ein Baum. Die Wurzel des Baums ist das HTML element der nächsten Ebene gabelt sich der Baum in den Head und body IM HEAD befinden sich in ersterlinie meta daten zu dem DOKUMENT wie Titel der seite Sprache und Zeichengruppierung. Im body befinden sich die EGENTLICHE Inhalte der Seite wie Bilder Text und Links ![Dom-Tree](/assets/https___miro.medium.com_v2_resize_fit_720_format_webp_1_g1GzSjM5-J3aN2wjVz6qKA.png)
