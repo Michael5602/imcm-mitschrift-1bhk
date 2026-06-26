@@ -119,4 +119,4 @@ Html gibt eine Strucktur für die Webpageinhalte vor.
 Die `index.html` ist in der Regel der Zentrale einstiegspunkt für alle Wbeseiten(Bilder, Videos, JS-Files)
 werden über diese verknüpft.
 
-Die zentralen Bausteine sind die Sogennaten **TAGS**. Tags können mit **Attributen** erweitert werden.
+Die zentralen Bausteine sind die Sogennaten **TAGS**. Tags können mit **Attributen** erweitert werden. Attribute bestehen aus der Schlüsselwertpaaren (*key-value-pairs*). Der HTML_Quellcode wird vom Browser und Suchmaschienen Bots (Suchmaschienen-Bots - *crawler* Ki Bots) gelsen und interpretiert.
