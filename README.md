@@ -107,3 +107,16 @@ Bei einer bandbreite von 300 Mbts/s können 300 Millionen Bit über die Leitung 
 | Link | Ethernet | Frame | MAC-Adressen |
 
 Die Daten der Anwendungschicht werden auf der Transport-schicht in Segemnete verpackt und diese werden versendet.
+
+## Webtechnologie,
+Css und Js
+
+[Html-CSS_JS](/assets/https___miro.medium.com_v2_resize_fit_720_format_webp_1_g1GzSjM5-J3aN2wjVz6qKA.png)
+
+### Html 
+
+Html gibt eine Strucktur für die Webpageinhalte vor.
+Die `index.html` ist in der Regel der Zentrale einstiegspunkt für alle Wbeseiten(Bilder, Videos, JS-Files)
+werden über diese verknüpft.
+
+Die zentralen Bausteine sind die Sogennaten **TAGS**. Tags können mit **Attributen** erweitert werden.
